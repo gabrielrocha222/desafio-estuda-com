@@ -7,6 +7,13 @@
 O objetivo deste projeto é realizar a automação de testes no site [https://bstackdemo.com/](https://bstackdemo.com/), cobrindo os cenários de login e adição de itens no carrinho. O projeto utiliza o framework **Cypress** para automação dos testes e está estruturado de acordo com as melhores práticas.
 
 ---
+### 1️⃣ **Clonar o repositório**
+
+Comando para clonar o repositório git:  
+
+```bash
+git clone https://github.com/gabrielrocha222/desafio-estuda-com.git
+```
 
 ## 🏆 Estrutura do Desafio
 
@@ -101,16 +108,6 @@ WORKFLOW/
 ## 🚀 **Como Executar os Testes com Cypress**
 
 Após configurar o ambiente, siga estes passos:
-
-### 1️⃣ **Instalação das Dependências**
-
-Certifique-se de ter as dependências instaladas. No diretório raiz do projeto, execute:  
-
-```bash
-npm install
-```
-
-ou
 
 ```bash
 yarn install
